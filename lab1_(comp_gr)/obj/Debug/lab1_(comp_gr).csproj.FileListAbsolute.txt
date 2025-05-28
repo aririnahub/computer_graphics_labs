@@ -1,0 +1,10 @@
+C:\Users\Arina\source\repos\lab1_(comp_gr)\bin\Debug\lab1_(comp_gr).exe.config
+C:\Users\Arina\source\repos\lab1_(comp_gr)\bin\Debug\lab1_(comp_gr).exe
+C:\Users\Arina\source\repos\lab1_(comp_gr)\bin\Debug\lab1_(comp_gr).pdb
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1_(comp_gr).csproj.AssemblyReference.cache
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1__comp_gr_.Form1.resources
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1__comp_gr_.Properties.Resources.resources
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1_(comp_gr).csproj.GenerateResource.cache
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1_(comp_gr).csproj.CoreCompileInputs.cache
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1_(comp_gr).exe
+C:\Users\Arina\source\repos\lab1_(comp_gr)\obj\Debug\lab1_(comp_gr).pdb
